@@ -3,13 +3,13 @@
 
   if &background == 'dark'
 
-  let s:guishade0 = "#280023"
-  let s:guishade1 = "#43203c"
-  let s:guishade2 = "#5f3f56"
-  let s:guishade3 = "#7a5f6f"
-  let s:guishade4 = "#957f89"
-  let s:guishade5 = "#b09fa2"
-  let s:guishade6 = "#ccbebc"
+  let s:guishade0 = "#190017"
+  let s:guishade1 = "#362032"
+  let s:guishade2 = "#543f4d"
+  let s:guishade3 = "#715f68"
+  let s:guishade4 = "#8f7f84"
+  let s:guishade5 = "#ac9f9f"
+  let s:guishade6 = "#cabeba"
   let s:guishade7 = "#e7ded5"
   let s:guiaccent0 = "#cd4128"
   let s:guiaccent1 = "#f58903"
@@ -19,13 +19,13 @@
   let s:guiaccent5 = "#0168ad"
   let s:guiaccent6 = "#af7f95"
   let s:guiaccent7 = "#d101b7"
-  let s:ctermshade0 = 53
-  let s:ctermshade1 = 59
-  let s:ctermshade2 = 96
-  let s:ctermshade3 = 242
+  let s:ctermshade0 = 233
+  let s:ctermshade1 = 236
+  let s:ctermshade2 = 239
+  let s:ctermshade3 = 102
   let s:ctermshade4 = 245
   let s:ctermshade5 = 248
-  let s:ctermshade6 = 251
+  let s:ctermshade6 = 250
   let s:ctermshade7 = 253
   let s:ctermaccent0 = 167
   let s:ctermaccent1 = 214
@@ -43,13 +43,13 @@
   if &background == 'light'
 
   let s:guishade0 = "#e7ded5"
-  let s:guishade1 = "#ccbebc"
-  let s:guishade2 = "#b09fa2"
-  let s:guishade3 = "#957f89"
-  let s:guishade4 = "#7a5f6f"
-  let s:guishade5 = "#5f3f56"
-  let s:guishade6 = "#43203c"
-  let s:guishade7 = "#280023"
+  let s:guishade1 = "#cabeba"
+  let s:guishade2 = "#ac9f9f"
+  let s:guishade3 = "#8f7f84"
+  let s:guishade4 = "#715f68"
+  let s:guishade5 = "#543f4d"
+  let s:guishade6 = "#362032"
+  let s:guishade7 = "#190017"
   let s:guiaccent0 = "#cd4128"
   let s:guiaccent1 = "#f58903"
   let s:guiaccent2 = "#c59413"
@@ -59,13 +59,13 @@
   let s:guiaccent6 = "#af7f95"
   let s:guiaccent7 = "#d101b7"
   let s:ctermshade0 = 253
-  let s:ctermshade1 = 251
+  let s:ctermshade1 = 250
   let s:ctermshade2 = 248
   let s:ctermshade3 = 245
-  let s:ctermshade4 = 242
-  let s:ctermshade5 = 96
-  let s:ctermshade6 = 59
-  let s:ctermshade7 = 53
+  let s:ctermshade4 = 102
+  let s:ctermshade5 = 239
+  let s:ctermshade6 = 236
+  let s:ctermshade7 = 233
   let s:ctermaccent0 = 167
   let s:ctermaccent1 = 214
   let s:ctermaccent2 = 5
@@ -80,7 +80,7 @@
 
   highlight clear
   syntax reset
-  let g:colors_name = "code-witch"
+  let g:colors_name = "code_witch"
 
   """"""""""
   " Normal "
