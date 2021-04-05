@@ -11,14 +11,14 @@
   let s:shade5 = "#ac9f9f"
   let s:shade6 = "#cabeba"
   let s:shade7 = "#e7ded5"
-  let s:accent0 = "#cd4128"
+  let s:accent0 = "#d3491f"
   let s:accent1 = "#f58903"
   let s:accent2 = "#c59413"
-  let s:accent3 = "#01845c"
-  let s:accent4 = "#0189a3"
-  let s:accent5 = "#0168ad"
+  let s:accent3 = "#02895e"
+  let s:accent4 = "#01b0d2"
+  let s:accent5 = "#00a9fd"
   let s:accent6 = "#af7f95"
-  let s:accent7 = "#d101b7"
+  let s:accent7 = "#da06bd"
   
   endif
   
@@ -34,14 +34,14 @@
   let s:shade5 = "#543f4d"
   let s:shade6 = "#362032"
   let s:shade7 = "#190017"
-  let s:accent0 = "#cd4128"
-  let s:accent1 = "#f58903"
-  let s:accent2 = "#c59413"
-  let s:accent3 = "#01845c"
-  let s:accent4 = "#0189a3"
-  let s:accent5 = "#0168ad"
-  let s:accent6 = "#af7f95"
-  let s:accent7 = "#d101b7"
+  let s:accent0 = "#b93025"
+  let s:accent1 = "#875a1f"
+  let s:accent2 = "#7a6016"
+  let s:accent3 = "#167150"
+  let s:accent4 = "#2b6b7f"
+  let s:accent5 = "#0163bc"
+  let s:accent6 = "#904f6a"
+  let s:accent7 = "#a53493"
   
   endif
   
