@@ -5,7 +5,7 @@
 
   let s:guishade0 = "#190017"
   let s:guishade1 = "#362032"
-  let s:guishade2 = "#543f4d"
+  let s:guishade2 = "#897181"
   let s:guishade3 = "#715f68"
   let s:guishade4 = "#8f7f84"
   let s:guishade5 = "#ac9f9f"
